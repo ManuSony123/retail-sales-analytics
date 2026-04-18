@@ -2,8 +2,6 @@
 
 ### End-to-End ETL | Star Schema Data Warehouse | Power BI Dashboard
 
-![Executive Summary](dashboard/screenshots/page1_executive_summary.png)
-
 ---
 
 ## Project Overview
@@ -18,6 +16,7 @@ warehouse, and delivers executive-level insights through a
 | Item | Details |
 |---|---|
 | Dataset | Olist Brazilian E-Commerce (Kaggle) |
+| Source file Link : https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce |
 | Source Files | 8 CSV files (~400,000 raw records) |
 | Warehouse | MySQL 8.0 (Star Schema) |
 | Fact Records Loaded | 112,650 order line items |
